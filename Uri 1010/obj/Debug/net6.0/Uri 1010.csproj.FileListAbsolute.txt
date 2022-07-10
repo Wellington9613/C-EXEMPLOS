@@ -1,0 +1,15 @@
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.csproj.AssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.AssemblyInfoInputs.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.AssemblyInfo.cs
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.csproj.CoreCompileInputs.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\bin\Debug\net6.0\Uri 1010.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\bin\Debug\net6.0\Uri 1010.deps.json
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\bin\Debug\net6.0\Uri 1010.runtimeconfig.json
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\bin\Debug\net6.0\Uri 1010.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\bin\Debug\net6.0\Uri 1010.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\refint\Uri 1010.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\Uri 1010.genruntimeconfig.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1010\obj\Debug\net6.0\ref\Uri 1010.dll

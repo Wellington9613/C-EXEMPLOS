@@ -1,0 +1,15 @@
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\bin\Debug\net6.0\Uri 1066.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\bin\Debug\net6.0\Uri 1066.deps.json
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\bin\Debug\net6.0\Uri 1066.runtimeconfig.json
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\bin\Debug\net6.0\Uri 1066.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\bin\Debug\net6.0\Uri 1066.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.csproj.AssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.AssemblyInfoInputs.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.AssemblyInfo.cs
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.csproj.CoreCompileInputs.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\refint\Uri 1066.dll
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\Uri 1066.genruntimeconfig.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Nova pasta\Uri 1066\obj\Debug\net6.0\ref\Uri 1066.dll
